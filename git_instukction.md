@@ -41,6 +41,7 @@ git config --global user.emal"expample@.com
 ```
 git checkout 11d7
 ```
+Чтобы вернуться в последнюю версию файла в терминале набираем команду `git checkout master` 
 
 git log (git log --oneline)
 
@@ -50,4 +51,4 @@ chechout master
 
 
 
-Домашнее задание. дооформить инструкцию последовательность действий.commit , diff, log ( log --oneline) просмотр историй, chechout (перемещение между сохранениями) обязательно вернуться в исходное сотояние checkout master.
+Домашнее задание. дооформить инструкцию последовательность действий.commit , log ( log --oneline) просмотр историй, chechout (перемещение между сохранениями) обязательно вернуться в исходное сотояние checkout master.
